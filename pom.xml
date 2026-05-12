@@ -10,7 +10,8 @@
 	</parent>
 	<groupId>com.hm</groupId>
 	<artifactId>hm-demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>v1.0.0</version>
+	<packaging>jar</packaging>
 	<name/>
 	<description/>
 	<url/>
